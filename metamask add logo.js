@@ -8,7 +8,7 @@ https://vittominacori.github.io/watch-token/create/
 
 # Select the Ethereum mainnet # 
 # Paste Thalero Token address # // 0x4F8BD56A166202A00b7D8400803dB4D1273c8B6D
-# Finally paste this link #  // https://raw.githubusercontent.com/hesara1/Transplantcoin/main/size64.png
+# Finally paste this link #  // https://raw.githubusercontent.com/freeuniversechain/FREEUNIVERSECHAIN/main/image.png
 
 
 
@@ -21,7 +21,7 @@ https://vittominacori.github.io/watch-token/create/
 const tokenAddress = '0x4F8BD56A166202A00b7D8400803dB4D1273c8B6D';
 const tokenSymbol = 'THO';
 const tokenDecimals = 8;
-const tokenImage = 'https://raw.githubusercontent.com/hesara1/Transplantcoin/main/size64.png';
+const tokenImage = 'https://raw.githubusercontent.com/freeuniversechain/FREEUNIVERSECHAIN/main/image.png';
 
 try {
   // wasAdded is a boolean. Like any RPC method, an error may be thrown.
