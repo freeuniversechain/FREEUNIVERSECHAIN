@@ -21,7 +21,7 @@ If you'd like to integrate suggesting a token into your own web app, you can fol
 const tokenAddress = '0x4F8BD56A166202A00b7D8400803dB4D1273c8B6D';
 const tokenSymbol = 'THO';
 const tokenDecimals = 8;
-const tokenImage = 'https://raw.githubusercontent.com/Transplantcoin/Token-Project/main/transplantcoinbsc.png';
+const tokenImage = 'https://raw.githubusercontent.com/freeuniversechain/FREEUNIVERSECHAIN/main/image.png';
 
 try {
   // wasAdded is a boolean. Like any RPC method, an error may be thrown.
